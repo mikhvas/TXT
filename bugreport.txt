@@ -1,1 +1,9 @@
-
+  "ID":"1213131",
+  "Project":"Course VadimKsendzov",
+  "Version":"v.1.1.1.2",
+  "Severity":"S4",
+  "Proirity":"P3",
+  "Author":"V.Shevtsov",
+  "Steps":"1step_2step_3step",
+  "Actual result":"Rus against UA"
+  "Expected result":"Putin against Ukraine"
