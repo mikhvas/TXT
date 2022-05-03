@@ -1,0 +1,6 @@
+    skill1:API testing_Postman
+    skill2:Devtools
+    skill3:SQL Data Base
+    skill4:Git
+    skill5:Mobile testing
+    skill6:Javascript beginner level

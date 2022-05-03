@@ -1,0 +1,5 @@
+Film: Forrest Gump
+Serial: Gamorra
+Food: Shashlyk
+Season: Spring
+Country: Serbia
